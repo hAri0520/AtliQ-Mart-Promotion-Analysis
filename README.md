@@ -46,3 +46,6 @@ Some awareness campaigns can be conducted to make customers more aware of person
 ### Partnerships and Collaborations: 
 Partner with influencers, bloggers, or other businesses for collaborations that include promoting discount-based promotions to their audience thereby increasing their revenue
 
+# Dashboard Link:
+## https://www.novypro.com/project/atliq-mart-promotional-performance-analysis
+
