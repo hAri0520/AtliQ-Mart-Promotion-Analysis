@@ -1,4 +1,4 @@
-# `AtliQ Mart Promotional Rerformance Analysis`
+# `AtliQ Mart Promotional Performance Analysis`
 
 # 🎯 Objective:
 
